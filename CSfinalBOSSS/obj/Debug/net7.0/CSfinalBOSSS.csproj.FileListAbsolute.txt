@@ -1,0 +1,15 @@
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.csproj.AssemblyReference.cache
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.AssemblyInfoInputs.cache
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.AssemblyInfo.cs
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.csproj.CoreCompileInputs.cache
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\bin\Debug\net7.0\CSfinalBOSSS.exe
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\bin\Debug\net7.0\CSfinalBOSSS.deps.json
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\bin\Debug\net7.0\CSfinalBOSSS.runtimeconfig.json
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\bin\Debug\net7.0\CSfinalBOSSS.dll
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\bin\Debug\net7.0\CSfinalBOSSS.pdb
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.dll
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\refint\CSfinalBOSSS.dll
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.pdb
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\CSfinalBOSSS.genruntimeconfig.cache
+C:\Users\Quliy_cy96\source\repos\CSfinalBOSSS\CSfinalBOSSS\obj\Debug\net7.0\ref\CSfinalBOSSS.dll
